@@ -1,0 +1,26 @@
+{
+  "header": {
+    "name": "Jansen Jan",
+    "address": "Voorbeeldstraat 1, 3000 Leuven",
+    "location": "Leuven",
+    "phone": "+32 000 00 00 00",
+    "email": "jan@example.com",
+    "vehicle": "Merk Model",
+    "plate": "1-ABC-123",
+    "fuel": "benzine",
+    "co2": "120",
+    "vu_pct": "60%",
+    "iban": "BE00 0000 0000 0000"
+  },
+  "odo_start": "2026-01-15 / 10000",
+  "odo_end": "2026-10-31 / 10180",
+  "trips": [
+    {
+      "date": "2026-10-12",
+      "contact": "Coach",
+      "actie": "Bezoek (heen + terug)",
+      "locatie": "Voorbeeldstraat 10, 3000 Leuven",
+      "km": 18
+    }
+  ]
+}
